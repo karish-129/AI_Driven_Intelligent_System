@@ -1,0 +1,20 @@
+version: '3.8'
+
+services:
+  intelligent_backend:
+    build: .
+    container_name: intelligent_system_backend_container
+    command: python -m uvicorn api.main:app --host 0.0.0.0 --port 8090
+    ports:
+      - "8090:8090"
+    restart: always
+
+  intelligent_frontend:
+    build: .
+    container_name: intelligent_system_frontend_container
+    command: python -m streamlit run dashboard/app.py --server.address 0.0.0.0 --server.port 9501
+    ports:
+      - "9501:9501"
+    depends_on:
+      - intelligent_backend
+    restart: always
