@@ -1,0 +1,79 @@
+[
+    {
+        "customer_id": "CUST_1000",
+        "amount": 3915.98,
+        "channel": "UPI",
+        "beneficiary_id": "ACC_9337",
+        "timestamp": "2026-07-16T04:55:41.046338"
+    },
+    {
+        "customer_id": "CUST_1001",
+        "amount": 1615.1,
+        "channel": "UPI",
+        "beneficiary_id": "ACC_9037",
+        "timestamp": "2026-07-16T05:05:41.046338"
+    },
+    {
+        "customer_id": "CUST_1002",
+        "amount": 1911.92,
+        "channel": "UPI",
+        "beneficiary_id": "ACC_9764",
+        "timestamp": "2026-07-16T05:15:41.046338"
+    },
+    {
+        "customer_id": "CUST_1003",
+        "amount": 3781.72,
+        "channel": "UPI",
+        "beneficiary_id": "ACC_9608",
+        "timestamp": "2026-07-16T05:25:41.046338"
+    },
+    {
+        "customer_id": "CUST_1004",
+        "amount": 3086.15,
+        "channel": "UPI",
+        "beneficiary_id": "ACC_9528",
+        "timestamp": "2026-07-16T05:35:41.046338"
+    },
+    {
+        "customer_id": "CUST_1005",
+        "amount": 3895.1,
+        "channel": "UPI",
+        "beneficiary_id": "ACC_9830",
+        "timestamp": "2026-07-16T05:45:41.046338"
+    },
+    {
+        "customer_id": "CUST_1006",
+        "amount": 551.37,
+        "channel": "UPI",
+        "beneficiary_id": "ACC_9884",
+        "timestamp": "2026-07-16T05:55:41.046338"
+    },
+    {
+        "customer_id": "CUST_1007",
+        "amount": 3140.38,
+        "channel": "UPI",
+        "beneficiary_id": "ACC_9576",
+        "timestamp": "2026-07-16T06:05:41.046338"
+    },
+    {
+        "customer_id": "CUST_1008",
+        "amount": 942.36,
+        "channel": "UPI",
+        "beneficiary_id": "ACC_9898",
+        "timestamp": "2026-07-16T06:15:41.046338"
+    },
+    {
+        "customer_id": "CUST_1009",
+        "amount": 2362.69,
+        "channel": "UPI",
+        "beneficiary_id": "ACC_9004",
+        "timestamp": "2026-07-16T06:25:41.046338"
+    },
+    {
+        "customer_id": "CUST_9999",
+        "amount": 95000.0,
+        "channel": "IMPS",
+        "beneficiary_id": "MULE_ACC_666",
+        "timestamp": "2026-07-16T09:56:56.046338"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "customer_id": "CUST_1000",
+        "device_id": "DEV_8093",
+        "ip_address": "192.168.1.26",
+        "is_vpn": false,
+        "timestamp": "2026-07-16T04:54:56.046338"
+    },
+    {
+        "customer_id": "CUST_1001",
+        "device_id": "DEV_5134",
+        "ip_address": "192.168.1.199",
+        "is_vpn": false,
+        "timestamp": "2026-07-16T05:04:56.046338"
+    },
+    {
+        "customer_id": "CUST_1002",
+        "device_id": "DEV_9949",
+        "ip_address": "192.168.1.74",
+        "is_vpn": false,
+        "timestamp": "2026-07-16T05:14:56.046338"
+    },
+    {
+        "customer_id": "CUST_1003",
+        "device_id": "DEV_9295",
+        "ip_address": "192.168.1.98",
+        "is_vpn": false,
+        "timestamp": "2026-07-16T05:24:56.046338"
+    },
+    {
+        "customer_id": "CUST_1004",
+        "device_id": "DEV_8647",
+        "ip_address": "192.168.1.77",
+        "is_vpn": false,
+        "timestamp": "2026-07-16T05:34:56.046338"
+    },
+    {
+        "customer_id": "CUST_1005",
+        "device_id": "DEV_7446",
+        "ip_address": "192.168.1.140",
+        "is_vpn": false,
+        "timestamp": "2026-07-16T05:44:56.046338"
+    },
+    {
+        "customer_id": "CUST_1006",
+        "device_id": "DEV_9079",
+        "ip_address": "192.168.1.247",
+        "is_vpn": false,
+        "timestamp": "2026-07-16T05:54:56.046338"
+    },
+    {
+        "customer_id": "CUST_1007",
+        "device_id": "DEV_7892",
+        "ip_address": "192.168.1.108",
+        "is_vpn": false,
+        "timestamp": "2026-07-16T06:04:56.046338"
+    },
+    {
+        "customer_id": "CUST_1008",
+        "device_id": "DEV_6677",
+        "ip_address": "192.168.1.72",
+        "is_vpn": false,
+        "timestamp": "2026-07-16T06:14:56.046338"
+    },
+    {
+        "customer_id": "CUST_1009",
+        "device_id": "DEV_5381",
+        "ip_address": "192.168.1.9",
+        "is_vpn": false,
+        "timestamp": "2026-07-16T06:24:56.046338"
+    },
+    {
+        "customer_id": "CUST_9999",
+        "device_id": "ROGUE_DEV_X",
+        "ip_address": "45.223.19.89",
+        "is_vpn": true,
+        "timestamp": "2026-07-16T09:54:56.046338"
+    }
+]
