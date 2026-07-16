@@ -30,7 +30,7 @@ if "console_logs" not in st.session_state:
     st.session_state.console_logs = ["[SYSTEM INITIALIZED]: AI_Driven_Intelligent_System Active."]
 
 st.sidebar.header("🛡️ Network Target Control")
-backend_url = st.sidebar.text_input("Backend API Link Target", value="http://127.0.0.1:8090")
+backend_url = st.sidebar.text_input("Backend API Link Target", value="http://127.0.0.1:8080")
 
 st.title("🛡️ AI_Driven_Intelligent_System: Real-Time Cyber Threat Panel")
 st.write("---")
