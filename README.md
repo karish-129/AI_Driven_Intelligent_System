@@ -1,4 +1,4 @@
-# 🛡️ FinSpark'26: AI-Driven Cyber-Fraud Telemetry Correlation Matrix
+# 🛡️ AI-Driven Cyber-Fraud Telemetry Correlation Matrix
 
 An intelligent, real-time streaming pipeline designed to cross-reference disconnected cybersecurity telemetry layers (SIEM, device profiles, VPN usage) with financial transaction logs to intercept banking exploits instantly.
 
